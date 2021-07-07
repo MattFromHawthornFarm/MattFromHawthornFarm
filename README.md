@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MattFromHawthornFarm
+- 👀 I’m trying to learn as much as I can this summer
+- 🌱 I’m currently learning the basics about BIOS and UEFI
+- 💞️ I’m looking to collaborate on really anything, because there's a 90% chance I'm lost going at it alone
+- 📫 How to reach me matthew.volpe@intel.com
